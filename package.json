@@ -14,5 +14,21 @@
         "test mre",
         "node",
         "happy birthday"
-    ]
+    ],
+
+    "engines": {
+        "node": ">=8.12.0",
+        "npm": ">=6.4.1"
+    },
+    "scripts": {
+        
+    },
+
+    "devDependencies": {
+        
+    },
+    
+    "dependencies": {
+        "@microsoft/mixed-reality-extension-sdk": "^0.20.0"
+      }
 }
