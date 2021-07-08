@@ -1,0 +1,18 @@
+{
+    "name": "birthday", 
+    "version": "0.0.1",
+    "private": true,
+    "description": "mre that shows a cupcake saying happy birthday, if touched, fireworks",
+    "main": "built/server.js",
+    "author": "rlacobelle20",
+    "license": "MIT",
+    "keywords": [
+        "mixed reality",
+        "virtual reality",
+        "vr",
+        "altspacevr",
+        "test mre",
+        "node",
+        "happy birthday"
+    ]
+}
