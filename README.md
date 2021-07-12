@@ -11,8 +11,8 @@ public:
 scripts:
     .gitignore ->
     build-all.js ->
-    change-sdk-source.js ->
-    foreach-sample.js ->
+    change-sdk-source.js -> change-source.js
+    foreach-sample.js -> for-each-run.js ->
     install-all.js -> 
     package-lock.json ->
     package.json ->
