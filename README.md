@@ -6,16 +6,47 @@ Pseudocode:
 public:
     index.html -> gives "caption" to mre in html
     manifest.json -> tells user what code is made for
+    cupcake.glb
 
 scripts:
+    .gitignore ->
+    build-all.js ->
+    change-sdk-source.js ->
+    foreach-sample.js ->
+    install-all.js -> 
+    package-lock.json ->
+    package.json ->
+    sdk-path-config-sample.json ->
 
 src:
     app.ts -> main code for the mre -> defines what mre does
     server.ts -> maon code for accessing/making server
 
-editorconfig -> shows stylistically wha tall files should look like
+.vscode:
+    launch.json ->
+    settings.json ->
+    tasks.json ->
+
+.gitignore ->
+
+.editorconfig -> shows stylistically wha tall files should look like
+
+DEVELOPER.md ->
 
 package.json -> tells user about entire package and its details
 
 README -> includes pseudocode and what the code actually abouts
+
+.dockerignore ->
+
+eslintrc.js -> 
+
+Dockerfile ->
+
+azure-pipelines.yml ->
+
+package-lock.json ->
+
+tsconfig.json ->
+
 
