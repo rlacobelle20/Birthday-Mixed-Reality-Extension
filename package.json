@@ -1,5 +1,5 @@
 {
-    "name": "happy birthday", 
+    "name": "happybirthday", 
     "version": "0.0.1",
     "private": true,
     "description": "mre that shows a cupcake saying happy birthday, if touched, fireworks",
