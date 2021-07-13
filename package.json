@@ -1,5 +1,5 @@
 {
-    "name": "birthday", 
+    "name": "happy birthday", 
     "version": "0.0.1",
     "private": true,
     "description": "mre that shows a cupcake saying happy birthday, if touched, fireworks",
@@ -20,6 +20,10 @@
     "engines": {
         "node": ">=8.12.0",
         "npm": ">=6.4.1"
+    },
+
+    "devDependencies": {
+        "@microsoft/mixed-reality-extension-sdk": "^0.20.0"
     },
     
     "dependencies": {
