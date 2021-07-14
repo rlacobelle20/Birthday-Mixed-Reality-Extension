@@ -1,11 +1,15 @@
 {
     "name": "happybirthday", 
-    "version": "0.0.1",
+    "version": "0.1.0",
     "private": true,
     "description": "mre that shows a cupcake saying happy birthday, if touched, fireworks",
     "main": "built/server.js",
     "author": "rlacobelle20",
     "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rlacobelle20/Birthday-Mixed-Reality-Extension.git"
+    },
     "keywords": [
         "mixed reality",
         "mixed reality extension",
@@ -16,17 +20,22 @@
         "node",
         "happy birthday"
     ],
-
     "engines": {
         "node": ">=8.12.0",
         "npm": ">=6.4.1"
     },
-
     "devDependencies": {
-        "@microsoft/mixed-reality-extension-sdk": "^0.20.0"
+        "@typescript-eslint/eslint-plugin": "^2.17.0",
+        "@typescript-eslint/parser": "^2.17.0",
+        "concurrently": "^5.1.0",
+        "eslint": "^6.8.0",
+        "nodemon": "^2.0.2",
+        "typescript": "^3.7.5"
     },
-    
     "dependencies": {
-        "@microsoft/mixed-reality-extension-sdk": "^0.20.0"
+        "@microsoft/mixed-reality-extension-sdk": "^0.20.0",
+        "@types/dotenv": "^6.1.0",
+        "@types/node": "^10.3.1",
+        "dotenv": "^6.2.0"
     }
 }
