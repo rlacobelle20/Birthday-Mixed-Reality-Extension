@@ -2,6 +2,7 @@
 Test MRE for me to learn how to build them.
 
 Used Mixed-Reality-Extension-SDK and Mixed-Reality-Extension-SDK-Samples for code and reference. 
+Relies heavilly on the two respositories.
 
 Pseudocode:
 
