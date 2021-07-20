@@ -4,6 +4,9 @@ Test MRE for me to learn how to build them.
 Used Mixed-Reality-Extension-SDK and Mixed-Reality-Extension-SDK-Samples for code and reference. 
 Relies heavilly on the two respositories.
 
+// @ts-ignore  can be used as a quick fix for modules not being recognized
+    - instead of using this, try npm install @types/libName -> example npm install @types/node
+
 Pseudocode:
 
 public:
