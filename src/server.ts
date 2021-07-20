@@ -3,6 +3,8 @@
  * Licensed under the MIT License.
  */
 
+// taken directly from @microsoft/mixed-reality-extension-sdk-samples
+
 import * as MRE from '@microsoft/mixed-reality-extension-sdk'; 
 import dotenv from 'dotenv';  
 import { resolve as resolvePath } from 'path';
