@@ -7,6 +7,8 @@ Relies heavilly on the two respositories.
 // @ts-ignore  can be used as a quick fix for modules not being recognized
     - instead of using this, try npm install @types/libName -> example npm install @types/node
 
+https://stackoverflow.com/questions/64732623/react-typescript-cannot-find-module-or-its-corresponding-type-declaration
+
 Pseudocode:
 
 public:
