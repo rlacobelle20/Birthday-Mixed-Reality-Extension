@@ -1,4 +1,5 @@
 // imports repository for mre
+// @ts-ignore  
 import * as MRE from '@microsoft/mixed-reality-extension-sdk';
 
 
