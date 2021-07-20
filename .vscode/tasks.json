@@ -5,6 +5,12 @@
             "type": "npm",
             "script": "build",
             "problemMatcher": []
+        },
+        {
+            "type": "npm",
+            "script": "build-all",
+            "path": "scripts/",
+            "problemMatcher": []
         }
     ]
 }
