@@ -58,3 +58,23 @@ package-lock.json ->
 tsconfig.json ->
 
 
+From command prompt:
+
+    git clone https://github.com/rlacobelle20/Birthday-Mixed-Reality-Extension.git
+    cd Birthday-Mixed-Reality-Extension
+    npm install This will install all dependent packages. (and will do very little if there are no changes)
+    npm run build This should not report any errors.
+    npm start This should print "INF: Multi-peer Adapter listening on..."
+
+In AltspaceVR
+
+    Go to your personal home
+    Make sure you are signed in properly, not a guest
+    Activate the Space Editor (only available if you indicate you want to participate in the Early Access Program in your AltspaceVR settings)
+    Click Basics group
+    Click on SDKApp
+    For the URL field, enter ws://localhost:3901
+    Enter a session ID (This step will eventually be optional. For now, put in any random value)
+    Click Confirm
+    If the app doesn't seem to load, click on the gear icon next the MRE object in to the present objects list, and make sure "Is Playing" is checked.
+    After the app has been placed, you will see the MRE Anchor (the white box with red/green/blue spikes on it), rendering on top of the MRE. You can use the anchor to move the MRE around. To hide the anchor, uncheck "Edit Mode".
