@@ -8,7 +8,7 @@ import * as MRE from '@microsoft/mixed-reality-extension-sdk';
 /**
  * The main class of this app. All the logic goes here.
  */
- export default class HelloWorld {
+export default class HelloWorld {
 	private text: MRE.Actor = null;
 	private cube: MRE.Actor = null;
 	private assets: MRE.AssetContainer;
