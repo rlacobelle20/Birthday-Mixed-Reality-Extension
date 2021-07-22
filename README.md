@@ -73,7 +73,7 @@ In AltspaceVR
     Activate the Space Editor (only available if you indicate you want to participate in the Early Access Program in your AltspaceVR settings)
     Click Basics group
     Click on SDKApp
-    For the URL field, enter ws://localhost:3901
+    For the URL field, enter ws://127.0.0.1:3901
     Enter a session ID (This step will eventually be optional. For now, put in any random value)
     Click Confirm
     If the app doesn't seem to load, click on the gear icon next the MRE object in to the present objects list, and make sure "Is Playing" is checked.
